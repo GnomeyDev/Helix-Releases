@@ -1,5 +1,6 @@
 # Helix-Client
 A Minecraft Bedrock Edition Utility Client (This is my first so it will be buggy)
+This is mainly to test how clients work so join the server for news on other BETTER clients
 
 # Current Features
 - AirJump
